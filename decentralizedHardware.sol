@@ -1,3 +1,8 @@
+/**
+ * This smart contract code is Copyright 2018 Geopay.me Inc For more information see https://doecoins.com
+ *
+ * Licensed under the GNU Affero General Public License v3.0: https://github.com/Doecoins/decentralizedHardware/blob/master/LICENSE
+ */
 pragma solidity ^0.4.0;
 contract decentralizedMining{
 	struct miner {
